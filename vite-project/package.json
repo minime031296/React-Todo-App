@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://minime031296.github.io/React-Todo-App",
+  "homepage": "https://github.com/minime031296/React-Todo-App/tree/main/vite-project",
   "dependencies": {
     "axios": "^1.6.8",
     "json-server": "^1.0.0-alpha.23",
